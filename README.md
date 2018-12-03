@@ -1,7 +1,7 @@
 # OpenAI_Gym_Projects
 Small reinforcement learning projects in OpenAI Gym
 
-#Question 1
+#Question 1#
 The policy behind this question consisted of going back on hill to gain momentum and going forward. However, one time was not enough, so the car goes back up again and tries it again and catches the flag!
 
 
